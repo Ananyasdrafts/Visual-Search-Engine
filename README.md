@@ -17,10 +17,6 @@ The image search engine operates through a well-defined pipeline, which includes
 - `search.py`: Handles the process of receiving a query image, extracting its features, and returning the most relevant search results.
 - `requirements.txt`: Lists all the necessary libraries and dependencies required for the project, ensuring a smooth setup and consistent environment.
 
-## Getting Started
-
-To get started with the image search engine, follow these steps:
-
 ### Prerequisites
 
 - Python 3.x
